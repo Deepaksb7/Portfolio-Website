@@ -6,8 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint",
-    "tailwind:init": "node ./node_modules/tailwindcss/lib/cli.js init"
+    "lint": "eslint"
   },
   "dependencies": {
     "next": "15.5.0",
