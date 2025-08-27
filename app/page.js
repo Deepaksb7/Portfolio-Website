@@ -13,7 +13,7 @@ export default function Home() {
   const [isDarkMode, setisDarkMode] = useState(false)
 
   useEffect(()=>{
-    if(localStorage.them === "dark" || (!('theme' in localStorage) && window.matchMedia("(prefers-color-scheme:dark)").matches)){
+    if(localStorage.theme === "dark" || (!('theme' in localStorage) && window.matchMedia("(prefers-color-scheme:dark)").matches)){
       setisDarkMode(true)
     }else{
       setisDarkMode(false)
