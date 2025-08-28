@@ -53,7 +53,7 @@ const About = ({isDarkMode}) => {
             {infoList.map(({icon,iconDark,title,description},index)=>(
               <motion.li
               whileHover={{scale:1.05}}
-              className='border-[0.5px] border-gray-400 rounded-xl p-6 cursor-pointer hover:bg-lightHover hover:-translate-y-1 duration-500 hover:shadow-black dark:border-white dark:hover:shadow-white dark:hover:bg-darkHover/50' key={index}>
+              className='border-[0.5px] border-gray-400 rounded-xl p-6 cursor-pointer hover:bg-lightHover hover:-translate-y-1 duration-500 hover:shadow-black dark:border-white dark:hover:shadow-white dark:hover:bg-darkhover/50' key={index}>
                 < Image src={isDarkMode ? iconDark :icon} alt={title} className='w-7 mt-3' />
                 <h3 className='my-4 font-semibold text-gray-700 dark:text-white'>{title}</h3>
                 <p className='text-gray-600 text-md dark:text-white/80'>{description}</p>
