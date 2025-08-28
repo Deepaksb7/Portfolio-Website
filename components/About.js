@@ -42,7 +42,7 @@ const About = ({isDarkMode}) => {
     transition={{duration:0.6,delay:0.8}}
         className='flex-1'>
           <p className='mb-10 max-w-2xl font-Ovo'>
-            I am a Frontend Developer and Data Analyst who enjoys building seamless, interactive web experiences while also uncovering meaningful insights from data. On the development side, I specialize in crafting responsive and dynamic interfaces that enhance user experience, while in analytics, I focus on cleaning, visualizing, and interpreting complex datasets to drive data-driven decisions. By combining both skills, I bridge creativity with analytical thinking to deliver well-rounded digital solutions.
+            I am a Frontend Developer who enjoys building seamless, interactive, and visually engaging web experiences. I specialize in crafting responsive and dynamic interfaces using modern technologies, with a strong focus on enhancing user experience and performance. My goal is to combine creativity with clean, efficient code to deliver intuitive and impactful digital solutions.
           </p>
 
           <motion.ul

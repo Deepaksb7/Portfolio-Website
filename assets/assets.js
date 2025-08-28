@@ -78,37 +78,41 @@ export const assets = {
 
 export const workData = [
     {
-        title: 'Frontend project',
-        description: 'Web Design',
+        title: 'E-commerce Website',
+        description: 'Frontend project',
         bgImage: '/work-1.png',
+        link:'https://github.com/Deepaksb7/E-commerce'
     },
     {
-        title: 'Geo based app',
-        description: 'Mobile App',
+        title: 'Funding Website',
+        description: 'Full-Stack project',
         bgImage: '/work-2.png',
+        link:'https://github.com/Deepaksb7/funding'
     },
     {
-        title: 'Photography site',
-        description: 'Web Design',
+        title: 'My-Spotify',
+        description: 'Mini project',
         bgImage: '/work-3.png',
+        link:'https://github.com/Deepaksb7/My-Spotify'
     },
     {
-        title: 'UI/UX designing',
-        description: 'UI/UX Design',
+        title: 'Password manager',
+        description: 'Full-Stack Mini project',
         bgImage: '/work-4.png',
+        link:'https://github.com/Deepaksb7/Pass-OP-mongo'
     },
 ]
 
 export const serviceData = [
-    { icon: assets.web_icon, title: 'Web design', description: 'Web development is the process of building, programming...', link: '' },
-    { icon: assets.mobile_icon, title: 'Mobile app', description: 'Mobile app development involves creating software for mobile devices...', link: '' },
-    { icon: assets.ui_icon, title: 'UI/UX design', description: 'UI/UX design focuses on creating a seamless user experience...', link: '' },
-    { icon: assets.graphics_icon, title: 'Graphics design', description: 'Creative design solutions to enhance visual communication...', link: '' },
+    { icon: assets.web_icon, title: 'Responsive Web Design', description: 'I create websites that adapt beautifully to all screen sizes, ensuring a seamless browsing experience on desktops, tablets, and mobile devices....', link: '' },
+    { icon: assets.mobile_icon, title: 'Single Page Applications (SPA)', description: 'Using modern frameworks like React, I develop fast, dynamic, and interactive single-page applications that feel smooth and responsive...', link: '' },
+    { icon: assets.ui_icon, title: 'UI/UX design', description: 'I design and build clean, modern, and intuitive user interfaces that focus on delivering an engaging and enjoyable user experience....', link: '' },
+    { icon: assets.graphics_icon, title: 'Performance Optimization', description: 'I optimize websites for speed, accessibility, and efficiency, ensuring users enjoy quick load times and smooth interactions...', link: '' },
 ]
 
 export const infoList = [
     { icon: assets.code_icon, iconDark: assets.code_icon_dark, title: 'Languages', description: 'HTML, CSS, JavaScript React Js, Next Js' },
-    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.Tech in Computer Science' },
+    { icon: assets.edu_icon, iconDark: assets.edu_icon_dark, title: 'Education', description: 'B.SC in Computer Science' },
     { icon: assets.project_icon, iconDark: assets.project_icon_dark, title: 'Projects', description: 'Built more than 5 projects' }
 ];
 
