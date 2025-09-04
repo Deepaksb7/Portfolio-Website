@@ -96,10 +96,10 @@ export const workData = [
         link:'https://github.com/Deepaksb7/My-Spotify'
     },
     {
-        title: 'Password manager',
-        description: 'Full-Stack Mini project',
+        title: 'Real-time chat site',
+        description: 'Full-Stack project',
         bgImage: '/work-4.png',
-        link:'https://github.com/Deepaksb7/Pass-OP-mongo'
+        link:'https://chat-site-gwiz.onrender.com'
     },
 ]
 
