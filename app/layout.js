@@ -1,5 +1,6 @@
 import { Outfit,Ovo } from "next/font/google";
 import "./globals.css";
+import { Analytics } from '@vercel/analytics/next';
 
 const outfit = Outfit({
   subsets: ["latin"], weight :["400","500",'600','700']
@@ -21,6 +22,7 @@ export default function RootLayout({ children }) {
         className={`${outfit.className} ${ovo.className} antialiased leading-8 overflow-x-hidden dark:text-white dark:bg-darkTheme`}
       >
         {children}
+        <Analytics />
       </body>
     </html>
   );
