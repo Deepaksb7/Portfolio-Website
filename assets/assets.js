@@ -78,6 +78,12 @@ export const assets = {
 
 export const workData = [
     {
+        title: 'Real-time chat site - Live',
+        description: 'Full-Stack project',
+        bgImage: '/work-4.png',
+        link:'https://chat-site-gwiz.onrender.com'
+    },
+    {
         title: 'E-commerce Website',
         description: 'Frontend project',
         bgImage: '/work-1.png',
@@ -94,12 +100,6 @@ export const workData = [
         description: 'Mini project',
         bgImage: '/work-3.png',
         link:'https://github.com/Deepaksb7/My-Spotify'
-    },
-    {
-        title: 'Real-time chat site',
-        description: 'Full-Stack project',
-        bgImage: '/work-4.png',
-        link:'https://chat-site-gwiz.onrender.com'
     },
 ]
 
