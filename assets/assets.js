@@ -84,10 +84,10 @@ export const workData = [
         link:'https://chat-site-gwiz.onrender.com'
     },
     {
-        title: 'E-commerce Website',
-        description: 'Frontend project',
-        bgImage: '/work-1.png',
-        link:'https://github.com/Deepaksb7/E-commerce'
+        title: 'Mystery Feedback',
+        description: 'Full-Stack project',
+        bgImage: '/work-3.png',
+        link:'https://github.com/Deepaksb7/mystFeedback'
     },
     {
         title: 'Funding Website',
@@ -96,10 +96,10 @@ export const workData = [
         link:'https://github.com/Deepaksb7/funding'
     },
     {
-        title: 'My-Spotify',
-        description: 'Mini project',
-        bgImage: '/work-3.png',
-        link:'https://github.com/Deepaksb7/My-Spotify'
+        title: 'E-commerce Website',
+        description: 'Frontend project',
+        bgImage: '/work-1.png',
+        link:'https://github.com/Deepaksb7/E-commerce'
     },
 ]
 
