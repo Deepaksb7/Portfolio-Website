@@ -1,36 +1,55 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 💼 Portfolio Website
 
-## Getting Started
+A modern, responsive portfolio website built with **Next.js 15** and **React 19**, featuring elegant animations, dark/light theme toggle, and a professional showcase of projects, skills, and services.
 
-First, run the development server:
+---
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## 🚀 Live Demo  
+[View Live Portfolio](https://portfolio-website-five-tau-99.vercel.app/)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+## ✨ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### 🎨 Modern Design & UX
+- **Responsive Design** – Adapts seamlessly across desktop, tablet, and mobile devices.
+- **Dark/Light Theme Toggle** – Switch themes with persistent user preferences for better accessibility.
+- **Smooth Animations** – Built with **Framer Motion** for engaging transitions and interactions.
+- **Professional UI** – Clean interface with intuitive navigation.
+- **Custom Typography** – Google Fonts (Outfit & Ovo) for enhanced readability.
 
-## Learn More
+### 📱 Interactive Components
+- **Dynamic Navbar** – Fully responsive navigation with mobile-friendly menu.
+- **Hero Section** – Eye-catching introduction with profile image and call-to-action.
+- **About Section** – Professional overview highlighting skills and experience.
+- **Services Section** – Clear presentation of development services offered.
+- **Portfolio Section** – Interactive project gallery with live links and images.
+- **Contact Form** – Functional form to collect client inquiries.
+- **Footer** – Organized footer with social media links and additional navigation.
 
-To learn more about Next.js, take a look at the following resources:
+### ⚡ Performance & SEO
+- **Next.js 15** – Latest version with App Router for optimal performance.
+- **Vercel Analytics** – Built-in tools for tracking site performance and user behavior.
+- **SEO Optimized** – Proper meta tags and structured content to enhance search rankings.
+- **Fast Loading** – Optimized images and efficient code splitting for better speed.
+- **Modern Build Tools** – Utilizes **Tailwind CSS 4.0** and **PostCSS** for styling.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## 🛠️ Tech Stack
 
-## Deploy on Vercel
+### Frontend
+- **Next.js 15** – React framework with App Router
+- **React 19** – Latest React version with modern features
+- **Tailwind CSS 4.0** – Utility-first CSS framework
+- **Framer Motion** – Animation library for smooth interactions
+- **JavaScript (ES6+)** – Modern JavaScript practices
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+### Tools & Analytics
+- **Vercel Analytics** – Performance monitoring and user insights
+- **PostCSS** – CSS preprocessing and optimization
+- **ESLint** – Code linting for consistency and error prevention
+- **Autoprefixer** – Vendor prefix handling in CSS for cross-browser compatibility
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
