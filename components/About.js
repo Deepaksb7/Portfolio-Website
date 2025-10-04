@@ -42,7 +42,7 @@ const About = ({isDarkMode}) => {
     transition={{duration:0.6,delay:0.8}}
         className='flex-1'>
           <p className='mb-10 max-w-2xl font-Ovo'>
-            I am a Frontend Developer who enjoys building seamless, interactive, and visually engaging web experiences. I specialize in crafting responsive and dynamic interfaces using modern technologies, with a strong focus on enhancing user experience and performance. My goal is to combine creativity with clean, efficient code to deliver intuitive and impactful digital solutions.
+            I am a Fullstack Developer who enjoys building seamless, interactive, and visually engaging web experiences. I specialize in crafting responsive and dynamic interfaces using modern technologies, with a strong focus on enhancing user experience and performance. My goal is to combine creativity with clean, efficient code to deliver intuitive and impactful digital solutions.
           </p>
 
           <motion.ul

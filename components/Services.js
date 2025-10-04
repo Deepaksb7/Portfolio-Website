@@ -29,7 +29,7 @@ const Services = () => {
         whileInView={{ opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.7 }}
         className='text-center max-w-2xl mx-auto mt-5 mb-12 font-Ovo'>
-        I have experience developing responsive and user-friendly web applications using modern frontend technologies. My focus is on creating clean, efficient, and visually engaging interfaces that enhance user experience.
+        I have experience developing responsive and user-friendly web applications using modern fullstack technologies. My focus is on creating clean, efficient, and visually engaging interfaces that enhance user experience.
       </motion.p>
       <motion.div
         initial={{ opacity: 0 }}
