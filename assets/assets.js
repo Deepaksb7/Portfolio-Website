@@ -84,6 +84,12 @@ export const workData = [
         link:'https://chat-site-gwiz.onrender.com'
     },
     {
+        title: 'Noteforge',
+        description: 'Full-Stack project',
+        bgImage: '/work-1.png',
+        link:'https://noteforge-ten.vercel.app'
+    },
+    {
         title: 'Mystery Feedback',
         description: 'Full-Stack project',
         bgImage: '/work-3.png',
@@ -94,12 +100,6 @@ export const workData = [
         description: 'Full-Stack project',
         bgImage: '/work-2.png',
         link:'https://github.com/Deepaksb7/funding'
-    },
-    {
-        title: 'E-commerce Website',
-        description: 'Frontend project',
-        bgImage: '/work-1.png',
-        link:'https://github.com/Deepaksb7/E-commerce'
     },
 ]
 
