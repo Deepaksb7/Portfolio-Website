@@ -84,22 +84,22 @@ export const workData = [
         link:'https://chat-site-gwiz.onrender.com'
     },
     {
-        title: 'Noteforge',
+        title: 'Noteforge - Live',
         description: 'Full-Stack project',
         bgImage: '/work-1.png',
         link:'https://noteforge-ten.vercel.app'
+    },
+    {
+        title: 'Gsap site - Live',
+        description: 'Frontend project',
+        bgImage: '/work-2.png',
+        link:'https://spylt-site.netlify.app/'
     },
     {
         title: 'Mystery Feedback',
         description: 'Full-Stack project',
         bgImage: '/work-3.png',
         link:'https://github.com/Deepaksb7/mystFeedback'
-    },
-    {
-        title: 'Funding Website',
-        description: 'Full-Stack project',
-        bgImage: '/work-2.png',
-        link:'https://github.com/Deepaksb7/funding'
     },
 ]
 
