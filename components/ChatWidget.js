@@ -35,7 +35,7 @@ export default function Chat() {
                 <Bot size={30} className="text-blue-400" />
               </div>
               <div className="flex flex-col leading-tight">
-                <h3 className="font-bold text-sm text-white">Deepak's Assistant</h3>
+                <h3 className="font-bold text-sm text-white">Deepak&apos;s Assistant</h3>
                 <p className="text-[10px] text-gray-400">Ask about my resume</p>
               </div>
             </div>
@@ -51,7 +51,7 @@ export default function Chat() {
             {messages.length === 0 && (
               <div className="flex flex-col items-center justify-center h-full text-gray-400 text-center space-y-2">
                 <Bot size={32} className="opacity-20" />
-                <p className="text-sm">Say "Hi" to start chatting!</p>
+                <p className="text-sm">Say &quot;Hi&quot; to start chatting!</p>
               </div>
             )}
 
@@ -87,7 +87,7 @@ export default function Chat() {
 
             {status === 'streaming' && (
                <div className="flex items-center gap-2 text-xs text-gray-400 ml-8">
-                 <span>Deepak's AI is thinking...</span>
+                 <span>Deepak&apos;s AI is thinking...</span>
                </div>
             )}
             
